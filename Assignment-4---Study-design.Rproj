@@ -1,0 +1,9 @@
+---
+title: "Assignment 4 - study design"
+output:
+  word_document: default
+  html_document: default
+date: "`r Sys.Date()`"
+---
+
+
